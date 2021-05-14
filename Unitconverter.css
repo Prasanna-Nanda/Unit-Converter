@@ -1,0 +1,84 @@
+body {
+    background-color:ivory;
+    margin: auto;
+    width: 30%;
+    border: 3px solid blue;
+    padding: 10px;
+  }
+
+ 
+ 
+h1{
+background-color: lightblue;
+color: black;
+padding: 20px;
+text-align: center;
+}
+
+.text1{
+  display: flex;
+  flex-direction: row;
+
+}
+a{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: 30px;
+}
+.inputtext1{
+  align-items: center;
+  padding: 20px;
+
+}
+.output1{
+  align-items: center;
+  padding: 20px;
+}
+
+.dataconverter{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: 30px;
+  width: 300px;
+  
+  
+}
+.Inputvalue1{
+  display: block;
+  margin-left: left;
+  margin-right: auto;
+  width: 40%;
+  height: 20px;
+  width: 150px;
+}
+.Calculatevalue1{
+  display: block;
+  margin-left: auto;
+  margin-right: right;
+  width: 40%;
+  height: 20px;
+  width: 150px;
+}
+.converter1{
+  display: block;
+  margin-left: left;
+  margin-right: auto;
+  width: 40%;
+
+  height: 20px;
+  width: 155px;
+
+}
+.converter2{
+  display: block;
+  margin-left: auto;
+  margin-right: right;
+  width: 40%;
+  height: 20px;
+  width: 155px;
+
+}
