@@ -1,5 +1,5 @@
 
-
+var SomeVar;
 var UnitConverter;
 var Input;
 var Calculate;
